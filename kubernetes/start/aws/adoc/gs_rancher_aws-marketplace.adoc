@@ -111,7 +111,7 @@ image::logo-lockup_suse-aws_positive.svg[SUSE | Amazon Web Services, scaledwidth
 // Include any additional, relevant details
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
-{platform1} is a complete software stack for managing your entire Kubernetes landscape.
+{platform1} provides a complete software stack for managing your entire Kubernetes landscape.
 {productname} addresses the needs of DevOps teams, who are deploying applications with Kubernetes, and IT operations, who are responsible for delivering enterprise-critical services.
 {productname} provides simple, consistent operations and unifies security, policy, and user management, whether you are running one Kubernetes cluster or thousands.
 
@@ -199,7 +199,7 @@ Before getting started, you should have:
 // the same level as Installation.
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
-{platform1} is available in the {market} as the _{offering1}_ listing.
+{productname} is available in the {market} as the _{offering1}_ listing.
 
 In this section, you use _{offering1}_ to instantiate an ephemeral appliance from which you deploy {productname} into a new {eks_long} cluster.
 
@@ -467,7 +467,7 @@ Also, your supported downstream cluster nodes can be located anywhere - in multi
 // - Next steps (unordered list of 2-4 further learning resources)
 // = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
 
-In this guide, you learned to quickly deploy {platform1} into an {eks_long} via the {market}.
+In this guide, you learned to quickly deploy {productname} into an {eks_long} via the {market}.
 You also learned about elevating your enterprise experience with {productname2} priority support.
 
 //
